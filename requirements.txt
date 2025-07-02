@@ -1,0 +1,10 @@
+flask
+flask-cors
+pyttsx3
+pywhatkit
+pyautogui
+pynput
+speechrecognition
+opencv-python
+mediapipe
+psutil
